@@ -31,8 +31,8 @@
 
 ## Stats
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=stephan1226&show_icons=true&hide_title=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephan1226&layout=compact" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Stephan1226&show_icons=true&hide_title=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephan1226&layout=compact" />
 </div>
 
 <div align="center">
