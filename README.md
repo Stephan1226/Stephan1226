@@ -31,8 +31,7 @@
 
 ## Stats
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Stephan1226&show_icons=true&hide_title=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephan1226&layout=compact" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stephan1226&theme=high-contrast&height=250)
 </div>
 
 <div align="center">
