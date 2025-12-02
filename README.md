@@ -31,7 +31,7 @@
 
 ## Stats
 <div align="center">
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stephan1226&theme=high-contrast&height=250)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephan1226&theme=high-contrast&height=250" />
 </div>
 
 <div align="center">
