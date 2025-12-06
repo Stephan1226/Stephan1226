@@ -6,8 +6,8 @@
 
 <br/>
 
-<a href="https://stephan1226.notion.site/portfolio-169044078e8780cab08dccdf05b5a6ea?pvs=74">
-  <img src="https://img.shields.io/badge/Portfolio(Notion)-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<a href="https://www.figma.com/deck/FdUyAQT8nPhGkthC20Vuhy/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=1-94&viewport=-145%2C-61%2C0.67&t=jZndjpUUoKwRbZXy-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 <a href="mailto:contact@stephan.kim">
   <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white" />
