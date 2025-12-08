@@ -33,9 +33,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephan1226&theme=high-contrast&height=250" />
 </div>
-
-<div align="center">
-
-_“도움이 되는 제품을, 끝까지 운영 가능한 형태로.”_
-
-</div>
